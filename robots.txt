@@ -1,0 +1,5 @@
+# robotstxt.org/
+
+User-agent: *
+Disallow: /mail.php
+Sitemap: http://dotecode.com/sitemap.xml
